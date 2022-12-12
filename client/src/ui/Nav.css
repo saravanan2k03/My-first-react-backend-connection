@@ -1,0 +1,33 @@
+nav{
+    display: flex;
+    padding: 5px;
+    background-color: rgba(30, 208, 232, 0.77);
+
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 65%;
+}
+li{
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 50%;
+}
+.Employee{
+    text-decoration: none;
+    margin-right:10px;
+}
+.About{
+    text-decoration: none;
+    margin-right:10px;
+}
+.Shop{
+    text-decoration: none;
+    margin-right:10px;
+}
+h3{
+    margin-right:15%;
+}
